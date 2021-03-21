@@ -1,0 +1,83 @@
+Character sprite:
+
+normal:
+
+《〃 》
+ ||
+ 
+normal blink:
+
+《─ 》
+ ||
+
+looking up:
+
+《" 》
+ ||
+ 
+looking up blink:
+ 
+《´ 》
+ ||
+ 
+surprised:
+
+《oo》
+ ||
+ 
+surprised blink:
+
+《─ 》
+ ||
+
+took damage:
+ 
+《xx》
+ \\
+
+Hats:
+
+Antenna:
+
+ Y
+《〃 》
+ ||
+
+tall ears:
+
+ !!
+《〃 》
+ ||
+ 
+(can be animated to move when moving:)
+
+\\
+《〃 》  -->
+ ||
+
+types of body:
+
+《  》
+
+<  >
+
+〈  〉
+
+leg animation:
+
+neutral:
+
+||
+
+loop:
+
+|7
+
+/\
+
+/|
+
+Note: sprites dont have to fit a strict size rule and can be resized in unity
+as this game isnt strictly ascii like other console based games. 
+
+Same with inverting sprites to look the other way => can be done in unity
