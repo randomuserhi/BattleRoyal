@@ -33,8 +33,10 @@ eg from hollow knight:
   ／／          //                ||
 ／.'          ,7                 (\
 
+NOTE: higher res may be better to allow more expression on the face etc, but this is pretty good resolution
 
-as you can see does not quite work for smaller knight, probably better to use an even higher resolution
+as you can see does not quite work for smaller knight, probably better to use an even higher resolution, 
+plus at this low res there is no room for expression
 
              /7\\
             ││ ││
@@ -46,6 +48,7 @@ as you can see does not quite work for smaller knight, probably better to use an
        \＼ /::::::/
         \::::::／
           `/"\>
+
 
 
 
