@@ -12,26 +12,33 @@ since bosses and characters better defined in higher res will be much cooler
 
 eg from hollow knight:
 
+
+
+
                                             
                                            / │
                                           ﾍ,  |,
                                _,___     '/  / ,
                       __ , - '_,--  ＼   | ﾍ, ,│
                    r -----' ￣      _ '\│  {_/  ,
-                  r__ ____ ,  -   ' ／ \ﾐ  _ _ /
+                  r__ ____ ,  -   ' ／ \ﾐ  _/_ /
                   ／／    \     _ __/|    \ ソ ソ/
                 ／／      /`---':::::\     `- '
                //       \:::\|:::::|
               //        _|::/|:::::\ 
-              )＼ ／ 7   //⌒ ＼＼│::::::|
-              \  )    ||     ＼＼ ::::\
-            _／_""    ││       '＼＼ |^/
-          ／  ／       //       '/│ )
-        ／  ／       ／／            || 
-      ／ ／        ／／              ||           
-    ／ ／        ／／               ││
+              )＼ ／_7   //⌒ﾉ＼＼│::::::|
+              \  )    ||  ノ::＼＼ ::::\
+            _／_""    ││    ノ:||＼＼ |^/
+          ／  ／       //    ,:||/│ )
+        ／  ／       ／／      ,:|ﾘ  || 
+      ／ ／        ／／        ::ﾉ   ||           
+    ／ ／        ／／          `ﾉ   ││
   ／／          //                ||
 ／.'          ,7                 (\
+
+
+
+
 
 NOTE: higher res may be better to allow more expression on the face etc, but this is pretty good resolution
 
